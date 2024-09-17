@@ -35,7 +35,7 @@ Data Analyst and Operations Manager with 3+ years of experience in leveraging da
 
 1. **Global Terrorism Database Analysis**
    - Analyzed 150,000+ incidents using Power BI and Python
-   - [View Project](#)
+   - [View Project](https://github.com/Anku6969/Terrorism-dashboard)
 
 2. **Pharmaceutical Data Analysis**
    - Analyzed 10,000+ sales records using SQL and Python
