@@ -51,20 +51,30 @@ Data Analyst and Operations Manager with 3+ years of experience in leveraging da
 Tools Used: Microsoft Power BI , Microsoft Power Query , DAX , Microsoft PowerPoint
    - [View Project](https://github.com/Anku6969/Shopnest_Sales_Dashboard)
 5. **Airline DB**
-   - The SQL Capstone Project, which involves solving various complex queries using the Airline DB database. The project is designed to test and enhance SQL skills by providing practical, real-world scenarios related to airline operations.
-
-Key Features:
-- Date and Time Manipulation: Queries involving the formatting and extraction of date and time data from flight records.
-- Joins and Subqueries: Utilization of joins and subqueries to retrieve and analyze data across multiple tables.
-- Aggregations and Ranking: Implementation of functions like GROUP BY, HAVING, and window functions to rank and summarize data.
-- Data Filtering: Advanced filtering techniques to identify specific records, such as flights with the highest range or those that were canceled or delayed.
-- The project covers a broad spectrum of SQL concepts, making it an excellent resource for those looking to deepen their understanding of database management and query optimization. The repository includes both the problem statements and the corresponding SQL queries for each task.
+   - The SQL Capstone Project, which involves solving various complex queries using the Airline DB database. The project is designed to test and enhance SQL skills 
+     by providing practical, real-world scenarios related to airline operations.
+     Key Features:
+     - Date and Time Manipulation: Queries involving the formatting and extraction of date and time data from flight records.
+     - Joins and Subqueries: Utilization of joins and subqueries to retrieve and analyze data across multiple tables.
+     - Aggregations and Ranking: Implementation of functions like GROUP BY, HAVING, and window functions to rank and summarize data.
+     - Data Filtering: Advanced filtering techniques to identify specific records, such as flights with the highest range or those that were canceled or delayed.
+     - The project covers a broad spectrum of SQL concepts, making it an excellent resource for those looking to deepen their understanding of database management and query optimization. The repository includes both the problem statements and the corresponding SQL queries for each task.
+     - Tools Used:- SQL
    - [View Project](https://github.com/Anku6969/AirlineDB)
-
+6. **Freshco Hypermarket Analysis**
+   - Freshco Hypermarket, a leading supermarket located in HSR Layout, Bangalore. The analysis covers various aspects of the business, including customer behavior, order patterns, and delivery efficiency. The key insights provided in this repository aim to enhance business operations, optimize delivery services, and improve customer satisfaction. #Freshco Hypermarket, situated in HSR, Bangalore, has established itself as a prominent supermarket in the region, catering to a wide range of customers. In response to evolving customer needs and to enhance convenience, Freshco introduced a home delivery service in the year 2021 #Order Analysis #Completion rate Analysis #Customer Analysis #Delivery Analysis
+   - Key Features:
+    - Order Analysis: Detailed evaluation of order placements, with a focus on timing, discounts, and delivery charges.
+    - Completion Rate Analysis: Insights into the order completion rate, highlighting factors influencing timely deliveries.
+    - Customer Analysis: Examination of customer acquisition channels and their impact on Lifetime Value (LTV) and revenue generation.
+    - Delivery Analysis: Comprehensive review of delivery times, with special attention to peak hours and geographical challenges.
+   - This data-driven approach helps Freshco Hypermarket make informed decisions to better serve its customers and streamline its operations. The repository includes visualizations and summaries for easy interpretation of the data
+Tools Used: Microsoft Excel , Microsoft Power Query , Microsoft PowerPoint
+   - [View Project](https://github.com/Anku6969/Freshco-hypermarket)
 
 ## 📫 How to reach me
 
 - LinkedIn: [Ankush Rawal](www.linkedin.com/in/ankush-rawal)
 - Email: ankush.rawal64@gmail.com
-  Mobile: +919929283969
+- Mobile: +919929283969
 ---
