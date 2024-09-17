@@ -11,7 +11,7 @@ Data Analyst and Operations Manager with 3+ years of experience in leveraging da
 - **Machine Learning:** Scikit-learn, TensorFlow
 - **Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn
 - **Database:** MySQL, PostgreSQL, MongoDB
-- **Other:** Git, Excel (Advanced), Alteryx, SSIS
+- **Other:** Git, Excel (Advanced),SSIS
 
 ## 💼 Professional Experience
 
